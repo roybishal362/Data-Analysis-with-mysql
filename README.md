@@ -12,8 +12,11 @@ Insights and conclusions drawn from the analyzed data.
 Project Structure:
 
 data/: Dataset used for analysis.
+
 scripts/: SQL scripts for data manipulation and analysis.
+
 notebooks/: Jupyter notebooks for detailed analysis and visualization.
+
 results/: Output files, visualizations, and summary reports.\
 
 Contributing:
